@@ -36,7 +36,7 @@ module.exports = {
 
     rinkeby: {
         provider: function () {
-            return new HDWalletProvider(mnemonic, "https://rinkeby.infura.io/v3/{put-your-access-key}");
+            return new HDWalletProvider(mnemonic, "https://rinkeby.infura.io/v3/b7f9b8737bb5483fa65b04196b442877");
           },
         network_id: 4,
     },
