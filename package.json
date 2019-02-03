@@ -1,0 +1,9 @@
+{
+  "name": "starNotaryV2",
+  "version": "1.0.0",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.1.2",
+    "solc-js": "^0.5.5",
+    "truffle": "^5.0.3"
+  }
+}
